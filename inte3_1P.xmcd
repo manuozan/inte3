@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest f1458ce06e6a5e4bcb0f3a2ca877c658?>
+<?validation-md5-digest 5459bc9b23c9e60292964dd3a9cef2c0?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>manuelozan@outlook.com</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>1</revision>
+			<revision>2</revision>
 			<documentID>53FC8509-CEDC-4751-BCC6-FBF85B14578F</documentID>
-			<versionID>EA598325-1C17-4287-921A-682DFB58ADBE</versionID>
+			<versionID>F8405DFA-0132-405E-BD27-889BF62C3BFD</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -107,7 +107,7 @@
 		</editor>
 		<fileFormat image-type="image/png" image-quality="100" save-numeric-results="true" exclude-large-results="true" save-text-images="true" screen-dpi="96"/>
 		<miscellaneous>
-			<handbook handbook-region-tag-ub="65" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
+			<handbook handbook-region-tag-ub="66" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
 		</miscellaneous>
 	</settings>
 	<regions>
@@ -455,6 +455,12 @@
 					<box left="1.5" top="0.75" width="83.25" height="27" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
+		</region>
+		<region region-id="66" left="24" top="736.5" width="266.25" height="15.75" align-x="24" align-y="750" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<text use-page-width="false" push-down="false" lock-width="false">
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">https://ecstatic-torvalds-f9023a.netlify.app/</p>
+			</text>
+			<rendering item-idref="19"/>
 		</region>
 		<region region-id="65" left="0" top="848.25" width="6008.25" align-x="0" align-y="848.25" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="" height="885">
 			<area is-collapsed="true" name="" show-name="false" show-border="true" show-icon="true" show-timestamp="true" allow-expand="false" is-locked="false" timestamp="" top-lock-id="32" bottom-lock-id="64">
@@ -911,7 +917,7 @@
 					</math>
 				</region>
 			</area>
-			<rendering item-idref="19"/>
+			<rendering item-idref="20"/>
 		</region>
 	</regions>
 	<binaryContent>
@@ -1203,7 +1209,46 @@ NitoiZzLaa9E1x6J2Rjv6TEXGE8oEnsb+IlIJvowSiIeFT3kzRzXMAsb5uVnqkTbcuoCzwB/
 Y1md/S3SYohEAkdhY4doKYxPbJy0JQptDnHZblypsYAQiRbuWxA4oUdcEpHY4ay/sMlf86xx
 ICKxSbn/TaxkV0AkPsEMDH//oxCJNVDErPpzjQmIxAfYC+qo+u0NyZgvNgshEt8AkfgGiMQ3
 QCS+PN/6PxtV1Jqtbnl6AAAAAElFTkSuQmCC</item>
-		<item item-id="19">iVBORw0KGgoAAAANSUhEUgAAH0sAAAAMCAYAAAAXHXAzAAAAAXNSR0IArs4c6QAAAARnQU1B
+		<item item-id="19">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</item>
+		<item item-id="20">iVBORw0KGgoAAAANSUhEUgAAH0sAAAAMCAYAAAAXHXAzAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH2SURBVHhe7d1BCoRADEXBHL3P7Mal
 MxkQgqZFXI71oUAC9hVefLfdta4LAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwE9k
 BP3OxNIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACASiwdAAAAAAAAAAAAAAAAAAAA
